@@ -32,7 +32,7 @@ The ALU is in charge of arithmetic and logic. The When a comparision needs to be
 
 ## CPU, Input and Output
 
-*Identify how the example addresses each of the components: CPU, Input and Output
+* Identify how the example addresses each of the components: CPU, Input and Output
 
 The input component is the keyboard which recieve the data by the depression of a key and sends a processiong request to the CPU. The CPU finds the correct instructions for the request and stores this procedure into memory. This information is then sent to an output device which in this case is the screen.
 
@@ -40,18 +40,18 @@ The input component is the keyboard which recieve the data by the depression of 
 
 * Explain what is meant by a truth table and apply your knowledge to a NAND gate.
 
-A truth table is an organized representation of all the possible inputs and their corresponding outputs of a logic gate. A . It outputs "true" when one or more but not all of its inputs are false. You can visualze this gate as follows:
+A truth table is an organized representation of all the possible inputs and their corresponding outputs of a logic gate. A . It outputs "true" when one or more but not all of its inputs are false. You can visualze the NAND gate as follows:
 
-## NAND GATE
-## Input A  Input B  Output
-   false    false    true
-   false    true     true
-   true     false    true
-   true     true     false
+|Input A  |Input B  |Output  |
+|:------: |:------: |:------:|
+|false    |false    |true    |
+|false    |true     |true    |
+|true     |false    |true    |
+|true     |true     |false   |
 
 * How does the NAND gate truth table compare to that of an AND gate?
 
-A NAND (Negated AND) gate acts the opposite of an AND gate.
+A NAND (Negated AND) generates results opposite to that of an AND gate.
 
 ## IEEE - Ethically Aligned Design
 
@@ -78,9 +78,19 @@ The decimal number 211 is represented as the binary number . Please see the atta
 ## Hexadecimal color representation
 
 * Convert the binary representation: 10110101 to decimal and save your work to a file named BinaryConversion and upload to the lab folder.
+
+The binary representation 10110101 is represented by the decimal number . Please see the attached file for further details.
+
 * Explain the representation: #ab00ff using the site: https://www.colorhexa.com/
+
+#ab00ff is the hexadecimal representation of a (mostly) pure violet.
+
 * When considering accessibility in web sites would this color be problematic? Explain what should be considered.
+
+I would not use this color. For non-color blind people is it just so very bright as are the recommended color schemes. For color blind people it looks like blue, pink, green, or beige. That is way too much variation. Shades, tints, and tones do not improve the situation.
 
 # Conclusion
 
-Explain what you learnt from this lab
+Explain what you learned from this lab:
+
+In this lab, I learned how computers process data. It surprised me that the major component of processing is the power on/off cycles. Data processing includes logic gates which are processed by the ALU and sent to the control unit to aid in application of instructions. When watching the video of binary to hexadecimal, I noticed that hexadecimal uses one quarter of the memory needed by binary. The paradigm shift of hard drives with many moving parts to solid state hard drives with no moving parts created one of the bigegst jumps to the improvement of processing speed.
