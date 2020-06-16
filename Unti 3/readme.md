@@ -1,5 +1,6 @@
 # Executive Summary
 Write up as though you are explaining this week's lab to others.
+
 This week we explore the possibilities of IT careers: via general search, via possible internship or co-op, looking through the IT programs offered by Tri-C. We also learn about software and try out a new programing language. 
 
 # Software
@@ -17,8 +18,9 @@ This week we explore the possibilities of IT careers: via general search, via po
 # Career Exploration
 ## Career Exploration
 ### Tri-C College Central:
-* Register for a student account.
+* Register for a student account: Did this over the weekend.
 * Use one of the search options such as "Search - Intern Central," take a screenshot of the listings (include your name in the upper right-hand corner in your screenshot,) name the file: CollegeCentral and upload to your lab folder.
+See attached: SuccessfulInternshipSearch
 
 ### Bureau of Labor Statistics
 * Go to: Bureau of Labor Statistics website and continue exploring careers in IT (or your area of interest.) You can search for "web developer" or "network" or "cyber" and see what jobs appear. Report your findings including job title, salary and projected growth. You can upload a screenshot if you want.
