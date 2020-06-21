@@ -11,6 +11,8 @@ This week we explore the possibilities of IT careers: via general search, via po
 # Python
 * Follow the tasks for pythong coding. Then upload screenshot of python code (named Python) and output to this folder
 
+See Attached Screen Shot
+
 # Virtualization
 * What types of problems are solved with virtualization?
 * What role does hypervisor play in virtualization?
