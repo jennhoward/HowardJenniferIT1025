@@ -1,12 +1,23 @@
 # Executive Summary
 Write up as though you are explaining this week's lab to others.
 
-This week we explore the possibilities of IT careers: via general search, via possible internship or co-op, looking through the IT programs offered by Tri-C. We lern about software and virtualization, and try out a new programing language. 
+This week we explore the possibilities of IT careers: via general search, via possible internship or co-op, looking through the IT programs offered by Tri-C. We learn about software and virtualization and try out a new programing language, Python. 
 
 # Software
 * Explain the roles of application, utility and operating system software. Give an example of each.
-* Explain the purpose of ERP software and provide an uexample.
+
+Operating Systems manage hardware resources, provides user-interface components, and provide a platform for software applications.
+Applications are written by developers for people to use accomplish everyday things like creating spreadsheets.
+Utility software provides a way to fix, modify, or totally remove software. 
+
+* Explain the purpose of ERP software and provide an example.
+
+ERPs use central databases to impliment organization-wide processes in an efficient way. The corporation for which I work uses "cloud computers." This had made software updates a breeze compared to when we had or regular desktops.
+
 * Explain the purpose of virtualization and describe how it differs from cloud computing.
+
+Virtualization takes advantage of all the space on the server by splitting it up in various ways. 
+Virtualization is software whereas Cloud Computing is a service
 
 # Python
 * Follow the tasks for pythong coding. Then upload screenshot of python code (named Python) and output to this folder
@@ -15,7 +26,12 @@ See Attached Screen Shot
 
 # Virtualization
 * What types of problems are solved with virtualization?
+
+Problems solved with virtualization include reducing the number of physical servers a company needs to use which reduces the anount of electricity the company has to use run and cool actual physical servers which saves money that couple be used for something else the comany needs.
+
 * What role does hypervisor play in virtualization?
+
+Hypervisors separates the physical resources of the partitioned server from the virtual environments being used by people who are using those resources.
 
 # Career Exploration
 ## Career Exploration
@@ -51,4 +67,6 @@ I need only to click on the bright violet button to check out the possibilities.
 Institute of Electrical and Electonics Engineers (IEEE): Their purpose is to advance technology for humanity and the  profession. This means they ensure that the industry is being fair both the to general public and althroughout the profession. Technology can be used for good or bad, and thy support the good. Being a member allows you an avenue for reamining current in the industry and opportunties for networking.
 
 # Conclusion
-Summary of your understanding from this week's lab
+Summary of your understanding from this week's lab:
+
+Virtual computers and cloud systems allow for a much more efficient use of technology. I got experience using another programming language, Python. Tri-C provides many ways to figure out what you want to do with the degree you earn. Co-ops and internships allow you to gain real-wrold experience to actually do that job for a time. In my situation these are unnecessary as I've worked in IT in many ways throughout my many jobs. My goal has been Data Analytics for which I'd already done the necessary research. But I do still need to find an advisor.
