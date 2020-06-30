@@ -1,6 +1,8 @@
 # Executive Summary
 Update this section for this lab explaining the purpose of the lab
 
+In this week's lab we learn about Logos and create one. We learn about various file extension formats in which they could be saved. We are introduced to the command line prompt.
+
 # Graphics
 ## Raster vs. Vector Graphics
 * Explain the difference between a raster and vector image.
@@ -23,21 +25,22 @@ Lossy formats remove some of the data from the original to save the image in a r
 ## File Formats
 * Explain the similarities and differences between jpg, gif and png files.
 
-GIF: allows for animations of images and simple graphiics like logos and line drawings; 
-  avoid if the image has gradients or is a photo
-JPEG: allows for the subtle shifts and sharp contrasts of color and for the designer to fine-tune the image; 
-  avoid if image is high contrast, detailed, is a diagram, or has simple graphics (creates files that are too large)
-PNG allows for illustrations with multiple gradients, detaile diagrams, contrast, and partial transparency: 
-  avoid if image has low contrast (or larger file sizes)
+GIF: allows for animations of images and simple graphiics like logos and line drawings; avoid if the image has gradients or is a photo
+  
+JPEG: allows for the subtle shifts and sharp contrasts of color and for the designer to fine-tune the image; avoid if image is high contrast, detailed, is a diagram, or has simple graphics (creates files that are too large)
+
+PNG allows for illustrations with multiple gradients, detaile diagrams, contrast, and partial transparency: avoid if image has low contrast (or larger file sizes)
 
 # Operating Systems
 * Upload screenshots for Operating System tasks to github
+
+see the attached files DirectoryStructureCommandPrompt 1-5
 
 ## Logo
 * Upload your logo image that you created from the Graphics Tasks
 
 see both uploads: one version is Word, I could get it close but not perfect, it is explained in the screenshot
-  one version is in Vectr which I could not get to work, even for something as simple as my logo, it ran out of space
+one version is in Vectr which I could not get to work, even for something as simple as my logo, it ran out of space
 
 * Explain your image design including how many "layers" were required
 
@@ -50,3 +53,5 @@ My images design is a one layer extremely simple design using primary colors. (I
 
 # Conclusion
 Summarize what you learned here
+
+I finally learned what is meant by .gif .jpeg and .png file extenstions. I had no idea they were so particular. I learned what are the advantages for  each type as well as what to avoid doing within these types.
