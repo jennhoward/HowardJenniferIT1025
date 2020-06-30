@@ -1,13 +1,14 @@
 # Executive Summary
 Update this section for this lab explaining the purpose of the lab
 
-In this week's lab we learn about Logos and create one. We learn about various file extension formats in which they could be saved. We are introduced to the command line prompt.
+In this week's lab we learn about Logos and create one. We read about various file extension formats in which they could be saved and how files can be enlagred and/or compressed into these formats. We are also introduced to the command line prompt.
 
 # Graphics
 ## Raster vs. Vector Graphics
 * Explain the difference between a raster and vector image.
 
 A Raster enlarged image becomes more pixelated the bigger you make it because the original has only so many pixels.
+
 A Vector enlarged image can be used to size any image because they use a special geometry.
 
 * Include examples of when each would be most appropriate.
@@ -20,6 +21,7 @@ If you'd like to use the image in many sizes, then use a vector inage.
 * Why does it matter to developers whether they use lossless or lossy image formats?
 
 Lossless formats preserve all the data from the original image, no details are lost.
+
 Lossy formats remove some of the data from the original to save the image in a reduced file size, if space is an issue.
 
 ## File Formats
@@ -54,4 +56,4 @@ My images design is a one layer extremely simple design using primary colors. (I
 # Conclusion
 Summarize what you learned here
 
-I finally learned what is meant by .gif .jpeg and .png file extenstions. I had no idea they were so particular. I learned what are the advantages for  each type as well as what to avoid doing within these types.
+I finally learned what is meant by .gif .jpeg and .png file extenstions. I had no idea they were so particular. I learned what are the advantages for  each type as well as what to avoid doing within these types. Vector enlarged and Lossless compressed images retain all the information about the original image. Whereas, Raster enlarged images do not have enough information for proper enlargementand. And, Lossy compressed images remove data from the original image.
