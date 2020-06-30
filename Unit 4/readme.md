@@ -1,7 +1,7 @@
 # Executive Summary
 Update this section for this lab explaining the purpose of the lab
 
-In this week's lab we learn about Logos and create one. We read about various file extension formats in which they could be saved and how files can be enlagred and/or compressed into these formats. We are also introduced to the command line prompt.
+In this week's lab we learn about Logos and create one. We read about various file extension formats in which they could be saved and how files can be enlagred and/or compressed into these formats. We are also introduced to working at the terminal level, then command line prompt.
 
 # Graphics
 ## Raster vs. Vector Graphics
@@ -14,6 +14,7 @@ A Vector enlarged image can be used to size any image because they use a special
 * Include examples of when each would be most appropriate.
 
 If the image is not going to be made too much bigger than it already is, then use a roster image.
+
 If you'd like to use the image in many sizes, then use a vector inage.
 
 
@@ -42,6 +43,7 @@ see the attached files DirectoryStructureCommandPrompt 1-5
 * Upload your logo image that you created from the Graphics Tasks
 
 see both uploads: one version is Word, I could get it close but not perfect, it is explained in the screenshot
+
 one version is in Vectr which I could not get to work, even for something as simple as my logo, it ran out of space
 
 * Explain your image design including how many "layers" were required
@@ -56,4 +58,4 @@ My images design is a one layer extremely simple design using primary colors. (I
 # Conclusion
 Summarize what you learned here
 
-I finally learned what is meant by .gif .jpeg and .png file extenstions. I had no idea they were so particular. I learned what are the advantages for  each type as well as what to avoid doing within these types. Vector enlarged and Lossless compressed images retain all the information about the original image. Whereas, Raster enlarged images do not have enough information for proper enlargementand. And, Lossy compressed images remove data from the original image.
+I finally learned what is meant by .gif .jpeg and .png file extenstions. I had no idea they were so particular. I learned what are the advantages for  each type as well as what to avoid doing within these types. Vector enlarged and Lossless compressed images retain all the information about the original image. Whereas, Raster enlarged images do not have enough information for proper enlargementand. And, Lossy compressed images remove data from the original image. I was able to create a file in a folder at the terminal level, then find it at the windows level with the help of the magnifiying glass at the top right of my screen. I'd never used that one before.
