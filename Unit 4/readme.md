@@ -37,23 +37,21 @@ PNG allows for illustrations with multiple gradients, detaile diagrams, contrast
 # Operating Systems
 * Upload screenshots for Operating System tasks to github
 
-see the attached files DirectoryStructureCommandPrompt 1-5
+I have so many screenshots: the most relevant are the ones uploaded on July 1. I looked through the index of the macOS command prompts and  I could not figure out how access the system information.
 
 ## Logo
 * Upload your logo image that you created from the Graphics Tasks
 
-see both uploads: one version is Word, I could get it close but not perfect, it is explained in the screenshot
-
-one version is in Vectr which I could not get to work, even for something as simple as my logo, it ran out of space
+I have a million uploads: PizzaLoga is what you want; my DataJ logo; I have no idea what I opened previously, but that vectr program and this vectr program were totally not the same.
 
 * Explain your image design including how many "layers" were required
 
-My images design is a one layer extremely simple design using primary colors. (I've been fiddling with it for a few weeks.) 
+The pizza logo I created eas 12 "layers". My realized DataJ logo was 3 "layers".
 
 * Right-click on your svg image file, select "properties" and report the file size and what application it "opens with." 
   What application might be more appropriate and why (click the "change" button for options)
   
-  My logo would be best saved as a GIF.
+  Both would be best saved using GIF.
 
 # Conclusion
 Summarize what you learned here
