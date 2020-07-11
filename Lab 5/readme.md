@@ -24,12 +24,12 @@ That was a fun program. I love flow charts! I like ther logic, and Lucidchart ma
 ## Data Transmission
 
 Match the following words with their definitions
-Words: Packet Packet-Switching; IP Address; DNS Protocol
+Words: (1) Packet Packet-Switching (2) IP Address (3) DNS Protocol
 
 Definitions to match: 
-Set of rules to allow devices to communicate Unit of data Unique identifying number 
-Technology that allows packets of data to be routed based on destination address 
-Directory of IP address common names. (For example 54.239.26.214 might be the IP address of amazon.com)
+* (A) Set of rules to allow devices to communicate Unit of data Unique identifying number 
+* (B) Technology that allows packets of data to be routed based on destination address 
+* (C) Directory of IP address common names. (For example 54.239.26.214 might be the IP address of amazon.com)
 
 ## Network Hardware
 * Explain the benefit of a switch over a hub.
