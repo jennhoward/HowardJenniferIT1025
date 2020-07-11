@@ -32,12 +32,25 @@ Definitions to match:
 * (C) Directory of IP address common names. (For example 54.239.26.214 might be the IP address of amazon.com)
 
 ## Network Hardware
+
 * Explain the benefit of a switch over a hub.
+
+Switches are intelligent because they are able to learn all the physical addresses of all the devices that are connected to it resulting in computers that receive only the data that is meant for them. Hubs do not filter any of the data and broadcasts it too all connected devides.
+
 * Explain the benefit of a router over hubs and switches.
 
-##Network Topology
+Hubs and Switches can be used only in LANs whereas routers create networks (WANs) via IP addresses. And not only will routers receive only the data that is intended for them but it bounces all other data along creating a much better security of the data.
+
+## Network Topology
+
 * Explain: Single point of failure and the topologies that experience this issue.
+
+A single point failure is a failure at one point in the network that caudes the whole network go crash because of the topology of that network such as Ring and Bus Networks and Infrastructre Topology.
+
 * Compare the Infrastructure Topology and Wireless Mesh. Which do you think is better and why?
+
+Infrastructre Topology is similar to star topology in that all computers are connected to a central point; so like s Hub and Switch Netorks, when the central point goes down so does the network. In a Wireless Mesh Topology all devices are interconnected to each other. Each wireless access point will talk to other wireless access points creating a seamless internet connection. I would choose WMTs (over Mesh) because are extremely redundant and thus not affected by single point failure. Also, WMTs have no cables or wires making them easire and less expensive to set up.
+
 
 ## Cybersecurity and Encryption
 * Imagine you are part of the Amazon.com online chat. Explain how each component of the security triad would impact your job
