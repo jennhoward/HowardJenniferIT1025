@@ -16,19 +16,22 @@ Download your chart as a jpg file and name it: DecisionFlowchart and upload the 
 
 Share your experience using Lucidchart in a paragraph (3-4 lines)
 
-That was a fun program. I love flow charts! I like ther logic, and Lucidchart made it simple to create the chart itself. I hade some fun coloring in all the various shapes different colors.
+I love flow charts! I have been working with and using flowcharts for a very long time. I like how they show the logic within a a process. Lucidchart made it simple to create the chart itself, including making it easy to space things evenly. I hade some fun coloring in all the various shapes different colors.
 
 # Networking
 ## Intro to Networking
 
 ## Data Transmission
 
-Match the following words with their definitions
-Words: (1) Packet Packet-Switching (2) IP Address (3) DNS Protocol
-
-Definitions to match: 
+Match the following words with their definitions 
+ 
+(2) IP Address
 * (A) Set of rules to allow devices to communicate Unit of data Unique identifying number 
+
+(1) Packet Packet-Switching 
 * (B) Technology that allows packets of data to be routed based on destination address 
+
+(3) DNS Protocol
 * (C) Directory of IP address common names. (For example 54.239.26.214 might be the IP address of amazon.com)
 
 ## Network Hardware
