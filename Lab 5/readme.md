@@ -1,6 +1,6 @@
 # Executive Summary
 
-Explain the goal for this lab
+Explain the goal for this lab: This week is about Flowcharts, Networks, Cybersecurity, and Encription.
 
 ## LucidChart
 
@@ -16,7 +16,7 @@ Download your chart as a jpg file and name it: DecisionFlowchart and upload the 
 
 Share your experience using Lucidchart in a paragraph (3-4 lines)
 
-I love flow charts! I have been working with and using flowcharts for a very long time. I like how they show the logic within a a process. Lucidchart made it simple to create the chart itself, including making it easy to space things evenly. I hade some fun coloring in all the various shapes different colors.
+I love flow charts! I have been working with and using flowcharts for a very long time. There are in my current job that show how verious processes work. They are helpful to visualize logic for better understanding. Lucidchart made it simple to create the chart itself, including making it easy to space things evenly. I hade some fun coloring in all the various shapes different colors.
 
 # Networking
 ## Intro to Networking
@@ -99,12 +99,22 @@ This is important so that when poeple send data it is sent with some level of se
 ## Cryptography
 * Type a message in the "Caesar Cipher Exploration box and turn the wheel to encrypt your message. Then explain the encryption here:
 
+I was able to find a tri-box version online to play with. It did not have a wheel. Box 1 - my message: I do rainbows and smiley faces not not holidays and hearts. Box 2 - Encrypted message: Q lw ziqvjwea ivl auqtmg nikma vwb vwb pwtqliga ivl pmizba. Box 3 - the cypher/shift: This was an 8 letter shift and it looks like gobbltygook.
+
 * Type a message in the "Frequency Fingerprint Exploration" box and a) Explain the result. b) Would it be different for different languages?
 
+(a) I cannot find a version online to play with. (b) It would be differment in different languages because they have different alphabets and their letter frequencies would also be different.
+
 * What is a "Polyalphabetic cipher?" Type a message in the "Polyalphabetic Exploration" box as well as a shift word. Explain the result.
+
+A Polyalphabetic cipher based on substitution using multiple substitution alphabets of whch The Enigma Machine is a more complex version. The message is broken into blocks of equal length, then each position in the box is encrypted using a different simple substitution cipher key. I cannot find a version online to play with.
 
 ## Brute Force
 * What is Brute-Force and how does it relate to Kerckhoffs's principle?
 
+Kerckhoffs's Principle "states that a cipher should still be secure even if everyone knows how the cipher works and someone else has the ciphertext." If a Brute-Force method can be used to break a cipher then it is not a secure cipher.
+
 # Conclusion
 Summarize how this lab was useful to you and what you learnt that really interested you!
+
+Flowcharts are excellent ways of visualizing logic and processes, and there is software theat makes them easy to creat and share. I learned more about how networks can be assembled with various hardware configurations and tolopogy applications. Confidentiality, Integrity, and Availability are the three most importand components of cyber security and how these have been improved to become more dynamic over the decades. Multi-factor authentication is a more secure way to control access to data. I learned about the Caesar and Polyalphabetic ciphers. Frequency Fingerprint analysis and Brute-Force can be used to easily break the Caesar Cipher.
