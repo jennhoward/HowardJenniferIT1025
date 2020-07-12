@@ -56,11 +56,32 @@ Infrastructre Topology is similar to star topology in that all computers are con
 
 
 ## Cybersecurity and Encryption
+
 * Imagine you are part of the Amazon.com online chat. Explain how each component of the security triad would impact your job
+Confidentility: Amazon must be sure that only those who are authorized to use the online chat are the only ones who have access to it.
+Integrity: Information truly repreents its intended meaning and to this end Amazon must provide a network that is immune to power surges and protected from people with malicious intent. For example, there might be a "Malware" integrated into the online chat software.
+Availability: Amazon requires their servers to be available 24/7.
+
 * Identify three daily tasks that require authentication. Explain how each one could be converted to multi-factor authentication
+Multifactor authenication requires two steps: a thing the user has (an RSD Secure Token) and a thing the user remembers.
+Daily Task 1: Using an ATM - The user must have their ATM Card and remember their PIN. 
+Daily Task 2: Online Banking - The user must have an ID/password combination and remember the answers to their security questions.
+Daily Task 3: Working from home - The user must have VPN for access to The Company plus remeber a password for access into your part of the compnay.
+
 * Explain ACL and RBAC. What are the advantages and disadvantages of each?
+ACL: "Access Control list" for each user specific capabilities are assigned.
+Advantages: If one is not on the list, they do not even know the resource exists.
+Disadvantages: Each resource is managed separately which makes adding or removing a user difficult.
+
+RBAC: An improvement to ACL such that instead of users having specific access rights, roles are developed for the users. 
+Advantages: These roles allow administrators to manage the roles and users separately which simplifies administration and improves security. Change aa aspect under the role versus for every individual user. 
+Disadvatages: 
+
 * Explain the interaction of ciphertext, a public key and a private key
+Ciphertext is a method of encryption that uses a Public Key (anyone can have this to send an encrypted message) and a Private Key (the recipient must have this to decript the message).
+
 * Explain why we need public key cryptography.
+This is important so that when poeple send data it is sent with some level of security.
 
 ## Cryptography
 * Type a message in the "Caesar Cipher Exploration box and turn the wheel to encrypt your message. Then explain the encryption here:
