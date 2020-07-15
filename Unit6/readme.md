@@ -1,7 +1,7 @@
 # Executive Summary
 Include your executive summary here...
 
-This week, it's all about the internet! How it's put together. What was created to make it work seemlessly. How it's secured. How to program for it. 
+This week, it's all about the internet! How it's put together. What was created to make it work seemlessly. How it's secured. How to publish on it. 
 
 # Internet Architecture
 ## Internet Protocol
@@ -110,3 +110,6 @@ Versus uncompressed files, Compressed files take up less space and can be transf
 
 # Conclusion
 Include your conclusion here...
+
+I was unaware of the intricacies of the internet's architecture and all the protocols that were created for it. I was not surprized to learn that there would not be enough addresses in the first decimal system that was created; so they created another one based on the hexadecimal system that will have more then enough addresses, considering all the "things" that will be connected. I had programmed in HTML before, and I like the CSS component that helps to make it more visually pleasing. And it's good to know that there's a world wide consortium that's trying to keep it all organized.
+
