@@ -1,6 +1,8 @@
 # Executive Summary
 Include your executive summary here...
 
+This week, it's all about the internet! How it's put together. What was created to make it work seemlessly. How it's secured. How to program for it. 
+
 # Internet Architecture
 ## Internet Protocol
 * What is an IP address and what is the difference between IPv4 and IPv6?
@@ -43,9 +45,15 @@ The "application" layer runs protocols for SMTP/POP3/IMap4 (email protocols), HT
 
 * What is HTTP and how does it support the client-server model?
 
+It is the "HyperText Transfer Prococol" and is the most widely used protocol on the internet. The client is the user who types the http of a website to visit. The server is the server that runs the site and lets users in. Unfortunatley when the data is transmitted data, everyone can see it.
 
 * Explain the protocols that secure HTTP uses to protect data.
 
+HTTPS S for secure encrypting the data that is being transferred over the internet by making it impossible to read via encryption algorithms that scramble the data making it impossible to read.
+
+SSL is the "Secure Sockets Layer" Protocol which ensures security on the internet. It uses public key encryption to send a certificate to auhtenticate that trustworthyness of the website.
+
+TLS is the "Transfer Layer Security" that is the successor to SSL, and it uses the latest industry standardized encryption protocol.
 
 ### Review the following article: Securing Your Web Browser
 * Why should you secure your browser?
@@ -63,11 +71,15 @@ Answer these questions
 
 * Who was Tim Berners-Lee and why did he create the W3C?
 
-He is the inventor of the World Wide Web and wrote the first version of the "HyperText Markup Language" known as HTML. He created W3C to maintain a culture of global particiaption in the developement of the World Wide Web. The organization's work revolves around standardization of Web Technologies which follows processes that premote the development of high-quality standards based on community census.
+He is the inventor of the World Wide Web and wrote the first version of the "HyperText Markup Language" known as HTML. He created W3C to maintain a culture of global particiaption in the developement of the World Wide Web. The organization's work revolves around standardization of Web Technologies which follows processes that premotes the development of high-quality standards via community census.
 
 * Pick a "standard" of your choice and explain why it is important.
 
+"Standard" is a process seeking to maximize consensus to ensure high technology and editorial quality to pormote consistencey among specifications.
+
 * Explain how XML differs from HTML.
+
+XML is a tool used to transport and store data focusing od the data itself. HTML is used to display data focusing on how it looks.
 
 # URLs and File Paths
 * Match the following terms / definitions under the heading and explain how they are related by providing an example of all of the pieces of a URL: Terms: scheme, domain, top level domain, default page, parameters, anchor Definitions/examples: .edu, no file path provided, result of search, https, www.amazon.com, specific location on a page.
