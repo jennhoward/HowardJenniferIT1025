@@ -13,7 +13,6 @@ Talk about what the goal of this lab is !
 
 Data are the raw bits and pieces of qualitative or quantiative information with no context. Information is analized data with context. The consumption of the information produces knowledge.
 
-
 * If you were creating a database for a small company and two tables you identify are customers and orders explain the following: (be sure to use the example in the chapter as a guide - customers and orders would be like clubs and events) 
 
 a) What would be the primary key in the customers and orders table?
@@ -43,11 +42,12 @@ The organization and storage of data into databases is how we've come to collect
 
 # Structured Query Language (SQL)
 * Explain RDBMS and how it relates to SQL and the purpose of SQL
+
 A Relational DataBase Management System stores information in a tabular form and a Structured Query Language is used to communicate with a dabase.
 
-* Pick two related tables from the diagram provided in the "module - SQL" and explain the relationship between them 
-a) which is the primary key? 
-b) which is the foreign key?
+* Pick two related tables from the diagram provided in the "module - SQL" and explain the relationship between them a) which is the primary key? b) which is the foreign key?
+
+I choose "Orders" and "Order Details":  "Order ID" is primary key in "Oders" and a foreign key in "Order Details". "Orders" contains the information required to ship orders. "Order Details" contain a few pieces of data specific to the "Order" and a foreign key to "Products".
 
 * Using W3Schools, try out a a) select statement a) where clause and upload screenshots of the results.
 * Explain how SQL injections are a security threat and what can be done to reduce the issue.
@@ -60,18 +60,23 @@ It is a formal document that outlines a set of acceptable behaviors for a profes
 
 * Explain the difference between a code of ethics and AUP (acceptable use policies.)
 
-These policies relate to a group of constituents oand/or a public agreement that some basic rules be followed and are based on the trust that some basic rules be followed. 
+These policies relate to a group of constituents and/or a public agreement that some basic rules be followed and are based on the trust that some basic rules be followed. 
 
 * Pick a site of your choice and read the AUP. Select a policy of interest and report your findings (include a link to the site in your report.)
 
-## Intellectual Property
+I chose to go to Sesame Street, and there is a whole page of smaller type explaining the cans and cannots about how outside sources can work with Sesame Street. https://www.sesamestreet.org/termsofuse ## Intellectual Property
+
 * From the chapter follow the link to the WIPO. What is the purpose and importance of the WIPO?
+
+For over 100 years The World Intellectual Property Organization makes IT work for everyone. It allows innovation and creativity to flourish by handling and organizing things like patents and trademarks, and when disagreements occur they offer services like arbitration and mediation. It builds the rules alongside technology improvements as they happen.
 
 * Using links in the chapter explain how a copyright is obtained and the benefit of registering for a copyright with the US Copyright Office. Explain why it might be important to copyright the svg image you created.
 
+In many countries, copyright protection is obtained automatically without the need for formal procedures. Offical registration is voluntary. Copyright protection extends only to expressions. Registration allows for "economic rights, which allow the rights owner to derive financial reward from the use of their works by others; and moral rights, which protect the non-economic interests of the author." If I copyright my svg, then I "own" it and no one else can use it unless I give them permission.
+
 * If the svg image you created became an item that identifies a source of goods or services, explain the role of a trademark in defining the intellectual property.
 
-A Trademark is an official identifier of a particular source of goods or services. It's purpose is to protect the consumers allowing tehm to know that the product or service is legitimate.
+A Trademark is an official identifier of a particular source of goods or services. It's purpose is to protect the consumers allowing them to know that the product or service is legitimate.
 
 ## Information Collection
 * Explain how COPPA, FERPA and HIPPA restrict the collection of information on the Internet.
