@@ -18,20 +18,13 @@ Data are the raw bits and pieces of qualitative or quantiative information with 
 
 * If you were creating a database for a small company and two tables you identify are customers and orders explain the following: (be sure to use the example in the chapter as a guide - customers and orders would be like clubs and events) 
 
-a) What would be the primary key in the customers and orders table?
+a) What would be the primary key in the customers and orders table? The primary key would be a "user ID" number. 
 
-The primary key would be a "user ID" number. 
+b) How would the customers and orders table be related? I'd link the "user ID" to a "customer ID" which would be linked to an "order ID". 
 
-b) How would the customers and orders table be related?
-
-I'd link the "user ID" to a "customer ID" which would be linked to an "order ID". 
-
-c) What would be the foreign key in the orders table?
-
-"Order ID" would me linked to a "menu ID" which lists all the items on the menu.
+c) What would be the foreign key in the orders table? "Order ID" would me linked to a "menu ID" which lists all the items on the menu.
 
 d) The orders table would likely have a date field. Explain why it is important to properly define the data type of a field.
-
 A data type tells the databse what kind of data is there and what can be done with that data and how much storage space the datat needs.
 
 ## Big Data
