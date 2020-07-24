@@ -1,7 +1,10 @@
 # Executive Summary
-Talk about what the goal of this lab is !
+Talk about what the goal of this lab is
+
+This week we learn about the basics of Object Oriented Programming. We also about organizing data in tables; organizing big data in connected tables. We will get a taste of how to run queries of those connect table to get useful information. And we learn about the ethics of informations system, big data, and how to protect personally created data.
 
 # Object Oriented Programming
+## This hase been completed. I've uploaded each class individually.
 * Create a class (using paper and pencil or using the Microsoft whiteboard app) for the following: a) Phone b) House c) Employee
 * Identify the features (In the video for the Car class, we identified the properties as Year, Make Model etc)
 * Identify the actions (In the video a) for the Car class, we identified the methods as Drive, Park, Start etc)
