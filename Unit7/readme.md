@@ -46,8 +46,13 @@ A Relational DataBase Management System stores information in a tabular form and
 
 I choose "Orders" and "Order Details":  "Order ID" is primary key in "Oders" and a foreign key in "Order Details". "Orders" contains the information required to ship orders. "Order Details" contain a few pieces of data specific to the "Order" and a foreign key to "Products".
 
-* Using W3Schools, try out a a) select statement a) where clause and upload screenshots of the results.
-* Explain how SQL injections are a security threat and what can be done to reduce the issue.
+* Using W3Schools, try out a a) select statement a) where clause and upload screenshots of the results. 
+
+Uploaded 3 screenshots tagged "SQL Practice."
+
+* Explain how SQL injections are a security threat and what can be done to reduce the issue
+
+SQLIs are used by to attack data driven applications allowing an attacker to interfere with queries which can allow them be able to see sensitive data. One way to guard against this security vulnerability is to not use dynamic SQL by which the construct queries are mande with user input.
 
 # Ethical and Legal Implications of Information Systems
 ## Code of Ethics
