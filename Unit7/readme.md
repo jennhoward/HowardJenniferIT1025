@@ -31,7 +31,7 @@ A data type tells the databse what kind of data is there and what can be done wi
 ## Big Data
 * Briefly describe the four "Vs" of big data
 
-VOLUME is the main characteristic and it refers to the amount of the data itself. VARIETY refers to the unstructered data meaning many types of data with no clear identification thus processing rules. VELOSITY is the speed and frequency of the incoming data that needs to be processed. VERACITY refers to the trustworthiness of the data - is this data correct? 
+VOLUME is the main characteristic and it refers to the amount of the data itself. VARIETY refers to the unstructered data meaning many types of data with no clear identification thus processing rules. VELOSITY is the speed and frequency of the incoming data that needs to be processed. VERACITY refers to the trustworthiness of the data - is this data correct? A fifth V could be called VALUE.
 
 * What types of technology have driven the increased need for big data?
 
@@ -52,7 +52,7 @@ Uploaded 3 screenshots tagged "SQL Practice."
 
 * Explain how SQL injections are a security threat and what can be done to reduce the issue
 
-SQLIs are used by to attack data driven applications allowing an attacker to interfere with queries which can allow them be able to see sensitive data. One way to guard against this security vulnerability is to not use dynamic SQL by which the construct queries are mande with user input.
+SQLIs are attack data driven applications allowing an attacker to interfere with queries which can allow them be able to see sensitive data. One way to guard against this security vulnerability is to not use dynamic SQL by which the construct queries are mande with user input.
 
 # Ethical and Legal Implications of Information Systems
 ## Code of Ethics
@@ -86,4 +86,6 @@ A Trademark is an official identifier of a particular source of goods or service
 COPPA: Children's Online Privacy and Protction Rule Act imposes certain requirements of operators of websites and/or online services from collecting information from children under 13 years of age. FERPA: The Family Educational Rights and Privacy Act is a US law that protects the privacy of student education records. HIPPA: The Health Insurance Portability and Accountablity Act is a set of laws that protect health care/medical information.
 
 # Conclusion
-Include what you have learnt from this lab
+Include what you have learned from this lab
+
+I learned that there are many institutions, organizations, and groups around the world that are working to maintain appropriate big data rules, allowing people to maintain ownership of that which they create. At the same time they are also working on The Internet of Things by ensuring a set of standards is followed and maintained. I learned that SQL is a way to create and update big data databases plus accessing and reorganizing the dta to fit a specific query or set of queries, information that can then be used.
